@@ -109,7 +109,7 @@ __ End of Posts __
 
 ![Ref image1][image1]
 
-[Ref image2] (hhttps://github.com/gary-m-wang/Animated-Bit-level-Collatz_Public/blob/main/Binary-bits-static-image-sequence_odd_terms.png) "Binary bits static image - sequence_odd_terms"
+[Ref image2] (https://github.com/gary-m-wang/Animated-Bit-level-Collatz_Public/blob/main/Binary-bits-static-image-sequence_odd_terms.png) "Binary bits static image - sequence_odd_terms"
 
 ![Ref image2][image2]
 
