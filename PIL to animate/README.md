@@ -5,7 +5,7 @@
 [video1]: https://www.youtube.com/watch?v=094y1Z2wpJg "The Simplest Math Problem No One Can Solve - Collatz Conjecture"
 [image1]: https://github.com/gary-m-wang/Animated-Bit-level-Collatz_Private/blob/main/pil_image_odd_terms_x100.PNG "Static image - sequence_odd_terms start n at 7"
 [image2]: https://github.com/gary-m-wang/Animated-Bit-level-Collatz_Private/blob/main/pil_text_on_image_odd_terms_x100.PNG "Static text on image - sequence_odd_terms start n at 7"
-[image3]: https://github.com/gary-m-wang/Animated-Bit-level-Collatz_Private/blob/main/text_off_animated_image_start_n_at_7.gif "Animated image - math steps start n at 7"
+[image3]: https://github.com/gary-m-wang/Animated-Bit-level-Collatz_Private/blob/main/pil_op_text_on_animated_image_start_n_at_7.gif "Animated image - math steps start n at 7"
 
 **README**
 
